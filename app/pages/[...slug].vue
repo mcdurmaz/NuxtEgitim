@@ -3,9 +3,9 @@
     <nav>
         <ul>
           <li v-for="link in navigation" :key="link.path">
-            <NuxtLink :to="link.path">
+            <NuxtLinkLocale :to="link.path">
               <span>{{ link.title }}</span> 
-            </NuxtLink>
+            </NuxtLinkLocale>
           </li>
         </ul>
     </nav>
