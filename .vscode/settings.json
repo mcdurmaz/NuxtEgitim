@@ -1,0 +1,13 @@
+{
+    "i18n-ally.localesPaths": [
+        "i18n",
+        "i18n/locales"
+    ],
+    "i18n-ally.displayLanguage": "",
+    "i18n-ally.sourceLanguage": "tr",
+    "i18n-ally.keystyle": "nested",
+    "i18n-ally.editor.preferEditor": false,
+    "i18n-ally.extract.autoDetect": true,
+    
+
+}
